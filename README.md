@@ -29,7 +29,8 @@ This is a solution to the [Insure landing page challenge on Frontend Mentor](htt
 
 ![Alt text](images/Insure-landing-page-mobile-view.png)
 #### Mobile-view
-![Alt text]([images/Insure-landing-page-Desktop-view.png](https://github.com/Ezekiel-Great/insure-landing-page/blob/main/images/Insure-landing-page-Desktop-view.png))
+![Alt text](images/Insure-landing-page-Desktop-view.png)
+
 #### Desktop-view
 ### Links
 
