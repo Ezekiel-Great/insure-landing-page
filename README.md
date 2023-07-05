@@ -27,7 +27,7 @@ This is a solution to the [Insure landing page challenge on Frontend Mentor](htt
 
 ![](./screenshot.jpg)
 
-![Alt text](images\Insure-landing-page-mobile-view.png)
+![Alt text](images/Insure-landing-page-Desktop-view.png)
 #### Mobile-view
 ![Alt text](images\Insure-landing-page-Desktop-view.png)
 #### Desktop-view
