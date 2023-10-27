@@ -31,8 +31,8 @@ This is a solution to the [Insure landing page challenge on Frontend Mentor](htt
 #### Desktop-view
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ezekiel-Great/insure-landing-page)
-- Live Site URL: [Add live site URL here](https://ezekiel-great.github.io/insure-landing-page/)
+- Solution URL: [insure-landing-page](https://github.com/Ezekiel-Great/insure-landing-page)
+- Live Site URL: [insure-landing-page live site ](https://ezekiel-great.github.io/insure-landing-page/)
 
 ## My process
 
