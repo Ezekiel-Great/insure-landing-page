@@ -32,7 +32,7 @@ This is a solution to the [Insure landing page challenge on Frontend Mentor](htt
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Ezekiel-Great/insure-landing-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://ezekiel-great.github.io/insure-landing-page/)
 
 ## My process
 
