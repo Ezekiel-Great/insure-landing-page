@@ -1,10 +1,7 @@
 # Frontend Mentor - Four card feature section solution
 
-<<<<<<< HEAD
-This is a solution to the [Insure landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8)git. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-=======
 This is a solution to the [Insure landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
->>>>>>> bc742b5fb0b257d3de19afb9f22069f58bbfafeb
+
 
 ## Table of contents
 
